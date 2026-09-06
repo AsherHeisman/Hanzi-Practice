@@ -1,0 +1,4 @@
+@import url("/shared/style.css");
+@import url("/admin/shared/style.css");
+.page-detail-1 { border:0;border-top:1px solid var(--border);margin:26px 0 }
+.page-detail-3 { font-size:.875rem }

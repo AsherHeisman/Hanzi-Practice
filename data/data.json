@@ -1,0 +1,1913 @@
+{
+  "units": [
+    {
+      "id": "u1",
+      "title": "Unit 1: First Impressions",
+      "chapters": [
+        {
+          "id": "u1c1",
+          "title": "Chapter 1: Getting to know Chinese",
+          "sections": [
+            {
+              "id": "u1c1s1",
+              "title": "Section 1 - basic words",
+              "characters": [
+                {
+                  "char": "你",
+                  "pinyin": "nǐ",
+                  "meaning": "you"
+                },
+                {
+                  "char": "好",
+                  "pinyin": "hǎo",
+                  "meaning": "fine, good, nice; OK, it's settled"
+                },
+                {
+                  "char": "吗",
+                  "pinyin": "ma",
+                  "meaning": "(question word)"
+                },
+                {
+                  "char": "是",
+                  "pinyin": "shì",
+                  "meaning": "to be"
+                },
+                {
+                  "char": "老师",
+                  "pinyin": "lǎoshī",
+                  "meaning": "teacher"
+                },
+                {
+                  "char": "我",
+                  "pinyin": "wǒ",
+                  "meaning": "I, me"
+                },
+                {
+                  "char": "学生",
+                  "pinyin": "xuéshēng",
+                  "meaning": "student"
+                },
+                {
+                  "char": "不",
+                  "pinyin": "bù",
+                  "meaning": "no, not"
+                },
+                {
+                  "char": "再见",
+                  "pinyin": "zàijiàn",
+                  "meaning": "goodbye, see you again"
+                }
+              ]
+            },
+            {
+              "id": "u1c1s2",
+              "title": "Section 2 - numbers",
+              "characters": [
+                {
+                  "char": "一",
+                  "pinyin": "yī",
+                  "meaning": "one"
+                },
+                {
+                  "char": "二",
+                  "pinyin": "èr",
+                  "meaning": "two"
+                },
+                {
+                  "char": "三",
+                  "pinyin": "sān",
+                  "meaning": "three"
+                },
+                {
+                  "char": "四",
+                  "pinyin": "sì",
+                  "meaning": "four"
+                },
+                {
+                  "char": "五",
+                  "pinyin": "wǔ",
+                  "meaning": "five"
+                },
+                {
+                  "char": "六",
+                  "pinyin": "liù",
+                  "meaning": "six"
+                },
+                {
+                  "char": "七",
+                  "pinyin": "qī",
+                  "meaning": "seven"
+                },
+                {
+                  "char": "八",
+                  "pinyin": "bā",
+                  "meaning": "eight"
+                },
+                {
+                  "char": "九",
+                  "pinyin": "jiǔ",
+                  "meaning": "nine"
+                },
+                {
+                  "char": "十",
+                  "pinyin": "shí",
+                  "meaning": "ten"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "u1c2",
+          "title": "Chapter 2: What's in a name?",
+          "sections": [
+            {
+              "id": "u1c2s1",
+              "title": "Section 1 - Exchanging names",
+              "characters": [
+                {
+                  "char": "叫",
+                  "pinyin": "jiào",
+                  "meaning": "to be called"
+                },
+                {
+                  "char": "什么",
+                  "pinyin": "shén me",
+                  "meaning": "what"
+                },
+                {
+                  "char": "名字",
+                  "pinyin": "míng zi",
+                  "meaning": "name"
+                },
+                {
+                  "char": "的",
+                  "pinyin": "de",
+                  "meaning": "(A possesive word that shows that something belongs to somebody)"
+                },
+                {
+                  "char": "英文",
+                  "pinyin": "yīngwén",
+                  "meaning": "English"
+                },
+                {
+                  "char": "中文",
+                  "pinyin": "zhōngwén",
+                  "meaning": "Chinese"
+                },
+                {
+                  "char": "白大明",
+                  "pinyin": "bái dàmíng",
+                  "meaning": "Daming Bai (a person's name)"
+                }
+              ]
+            },
+            {
+              "id": "u1c2salmzjg",
+              "title": "Section 2 - Saying that you have (or don't have something)",
+              "characters": [
+                {
+                  "char": "她",
+                  "pinyin": "tā",
+                  "meaning": "she, her"
+                },
+                {
+                  "char": "谁",
+                  "pinyin": "shéi",
+                  "meaning": "who"
+                },
+                {
+                  "char": "同学",
+                  "pinyin": "tóngxué",
+                  "meaning": "classmate"
+                },
+                {
+                  "char": "有",
+                  "pinyin": "yǒu",
+                  "meaning": "to have"
+                },
+                {
+                  "char": "没有",
+                  "pinyin": "méiyǒu",
+                  "meaning": "to not have"
+                },
+                {
+                  "char": "她",
+                  "pinyin": "tā",
+                  "meaning": "he, him"
+                },
+                {
+                  "char": "林春月",
+                  "pinyin": "línchūnyuè",
+                  "meaning": "Isabella Lopez (a person's name)"
+                },
+                {
+                  "char": "林马丁",
+                  "pinyin": "línmǎdīng",
+                  "meaning": "Martin Lopez (a person's name)"
+                }
+              ]
+            },
+            {
+              "id": "u1c2stmouw3",
+              "title": "Section 3 - Introducing more than one person",
+              "characters": [
+                {
+                  "char": "他们",
+                  "pinyin": "tā men",
+                  "meaning": "they, them (if anyone in the group is male)"
+                },
+                {
+                  "char": "和",
+                  "pinyin": "hé",
+                  "meaning": "and"
+                },
+                {
+                  "char": "她们",
+                  "pinyin": "tā men",
+                  "meaning": "they, them(if everyone in the group is female)"
+                },
+                {
+                  "char": "也",
+                  "pinyin": "yě",
+                  "meaning": "also, too, as well as"
+                },
+                {
+                  "char": "你们",
+                  "pinyin": "nǐ men",
+                  "meaning": "you (plural)"
+                },
+                {
+                  "char": "我们",
+                  "pinyin": "wǒ men",
+                  "meaning": "we, us"
+                },
+                {
+                  "char": "朋友",
+                  "pinyin": "péng you",
+                  "meaning": "friend"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "u1ci6bfja",
+          "title": "Chapter 3: Tell Me about yourself",
+          "sections": [
+            {
+              "id": "u1ci6bfjas9o5u8h",
+              "title": "Section 1 - Talking about siblings",
+              "characters": [
+                {
+                  "char": "哥哥",
+                  "pinyin": "gē ge",
+                  "meaning": "older brother"
+                },
+                {
+                  "char": "姐姐",
+                  "pinyin": "jiě jie",
+                  "meaning": "older sister"
+                },
+                {
+                  "char": "几",
+                  "pinyin": "jǐ",
+                  "meaning": "how many"
+                },
+                {
+                  "char": "个",
+                  "pinyin": "gè",
+                  "meaning": "(MW for people and many everyday objects)"
+                },
+                {
+                  "char": "弟弟",
+                  "pinyin": "dì di",
+                  "meaning": "younger brother"
+                },
+                {
+                  "char": "妹妹",
+                  "pinyin": "mèi mei",
+                  "meaning": "younger sister"
+                },
+                {
+                  "char": "爸爸",
+                  "pinyin": "bà ba",
+                  "meaning": "father, dad"
+                },
+                {
+                  "char": "马马",
+                  "pinyin": "mā ma",
+                  "meaning": "mother, mom"
+                }
+              ]
+            },
+            {
+              "id": "u1ci6bfjas9qp6xg",
+              "title": "Section 2 - Expressing likes and dislikes",
+              "characters": [
+                {
+                  "char": "喜欢",
+                  "pinyin": "xǐ huan",
+                  "meaning": "to like"
+                },
+                {
+                  "char": "看",
+                  "pinyin": "kàn",
+                  "meaning": "to look at, to watch, to read, to see"
+                },
+                {
+                  "char": "书",
+                  "pinyin": "shū",
+                  "meaning": "book"
+                },
+                {
+                  "char": "很",
+                  "pinyin": "hěn",
+                  "meaning": "very, really"
+                },
+                {
+                  "char": "电视",
+                  "pinyin": "diànshì",
+                  "meaning": "television"
+                },
+                {
+                  "char": "不太",
+                  "pinyin": "bútài",
+                  "meaning": "not really, not very"
+                },
+                {
+                  "char": "可是",
+                  "pinyin": "kěshì",
+                  "meaning": "but"
+                }
+              ]
+            },
+            {
+              "id": "u1ci6bfjasybf73d",
+              "title": "Section 3 - Talking about pets",
+              "characters": [
+                {
+                  "char": "宠物",
+                  "pinyin": "chǒngwù",
+                  "meaning": "pet (animal)"
+                },
+                {
+                  "char": "只",
+                  "pinyin": "zhī",
+                  "meaning": "mw for some animals"
+                },
+                {
+                  "char": "它",
+                  "pinyin": "tā",
+                  "meaning": "it used for animals and things"
+                },
+                {
+                  "char": "猫",
+                  "pinyin": "māo",
+                  "meaning": "cat"
+                },
+                {
+                  "char": "狗",
+                  "pinyin": "gǒu",
+                  "meaning": "dog"
+                },
+                {
+                  "char": "小明",
+                  "pinyin": "xiǎomíng",
+                  "meaning": "(a name)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "title": "Unit 2: Exploring a new place",
+      "chapters": [
+        {
+          "id": "u2c1",
+          "title": "Chapter 4: Goodbye America, Hello China!",
+          "sections": [
+            {
+              "id": "u2c1s1",
+              "title": "Section 1 - Talking about groups",
+              "characters": [
+                {
+                  "char": "都",
+                  "pinyin": "dōu",
+                  "meaning": "all, both"
+                },
+                {
+                  "char": "学",
+                  "pinyin": "xué",
+                  "meaning": "to learn, to study"
+                },
+                {
+                  "char": "对",
+                  "pinyin": "duǐ",
+                  "meaning": "right, correct"
+                },
+                {
+                  "char": "中国",
+                  "pinyin": "zhōngguó",
+                  "meaning": "China"
+                },
+                {
+                  "char": "美国",
+                  "pinyin": "měiguó",
+                  "meaning": "United States of America"
+                },
+                {
+                  "char": "人",
+                  "pinyin": "rén",
+                  "meaning": "person, place"
+                }
+              ]
+            },
+            {
+              "id": "u2c1s6bgkeg",
+              "title": "Section 2 - Using 还是 to ask questions",
+              "characters": [
+                {
+                  "char": "这",
+                  "pinyin": "zhè",
+                  "meaning": "this"
+                },
+                {
+                  "char": "知道",
+                  "pinyin": "zhīdào",
+                  "meaning": "to know"
+                },
+                {
+                  "char": "北京",
+                  "pinyin": "běijīng",
+                  "meaning": "Beijing"
+                },
+                {
+                  "char": "那",
+                  "pinyin": "nà",
+                  "meaning": "that"
+                },
+                {
+                  "char": "还是",
+                  "pinyin": "hái shi",
+                  "meaning": "or (in question)"
+                }
+              ]
+            },
+            {
+              "id": "u2c1seg4hs2",
+              "title": "Section 3 - Asking about locations",
+              "characters": [
+                {
+                  "char": "在",
+                  "pinyin": "zài",
+                  "meaning": "to be at, to be in (a place)"
+                },
+                {
+                  "char": "哪儿",
+                  "pinyin": "nǎr",
+                  "meaning": "where"
+                },
+                {
+                  "char": "小区",
+                  "pinyin": "xiǎoqū",
+                  "meaning": "neighborhood, apartment complext"
+                },
+                {
+                  "char": "现在",
+                  "pinyin": "xiànzài",
+                  "meaning": "now, at this time"
+                },
+                {
+                  "char": "星期",
+                  "pinyin": "xīngqī",
+                  "meaning": "week"
+                },
+                {
+                  "char": "家",
+                  "pinyin": "jiā",
+                  "meaning": "home"
+                },
+                {
+                  "char": "学校",
+                  "pinyin": "xuéxiào",
+                  "meaning": "school"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "u2ctnrugt",
+          "title": "Chapter 5: Sports in the Neighborhood",
+          "sections": [
+            {
+              "id": "u2ctnrugtsx0c36y",
+              "title": "Section 1 - Playing sports",
+              "characters": [
+                {
+                  "char": "会",
+                  "pinyin": "huǐ",
+                  "meaning": "can, know how to "
+                },
+                {
+                  "char": "打",
+                  "pinyin": "dǎ",
+                  "meaning": "to hit, to play (basketball, ping-pong)"
+                },
+                {
+                  "char": "篮球",
+                  "pinyin": "lánqiú",
+                  "meaning": "basketball"
+                },
+                {
+                  "char": "乒乓球",
+                  "pinyin": "pīngpāngqiú",
+                  "meaning": "ping-pong, table tennis"
+                },
+                {
+                  "char": "踢",
+                  "pinyin": "tī",
+                  "meaning": "to kick, to play (football or \"soccer\")"
+                },
+                {
+                  "char": "足球",
+                  "pinyin": "zúqiú",
+                  "meaning": "football or \"soccer\""
+                },
+                {
+                  "char": "网球",
+                  "pinyin": "wǎngqiú",
+                  "meaning": "tennis; tennis ball"
+                }
+              ]
+            },
+            {
+              "id": "u2ctnrugtsyyjedx",
+              "title": "Section 2 - Describing a place using 有",
+              "characters": [
+                {
+                  "char": "这儿",
+                  "pinyin": "zhèr",
+                  "meaning": "here, over here"
+                },
+                {
+                  "char": "有",
+                  "pinyin": "yǒu",
+                  "meaning": "there is, there are"
+                },
+                {
+                  "char": "场",
+                  "pinyin": "chǎng",
+                  "meaning": "outdoor court or field (for sports)"
+                },
+                {
+                  "char": "那儿",
+                  "pinyin": "nàr",
+                  "meaning": "there, over there"
+                },
+                {
+                  "char": "想",
+                  "pinyin": "xiǎng",
+                  "meaning": "to want (to do something)"
+                },
+                {
+                  "char": "去",
+                  "pinyin": "qù",
+                  "meaning": "to go"
+                },
+                {
+                  "char": "觉得",
+                  "pinyin": "jué de",
+                  "meaning": "to feel, to think"
+                },
+                {
+                  "char": "有意思",
+                  "pinyin": "yǒuyìsi",
+                  "meaning": "interesting, fun"
+                }
+              ]
+            },
+            {
+              "id": "u2ctnrugtse839xz",
+              "title": "Section 3 - Describing the location of activities ",
+              "characters": [
+                {
+                  "char": "加油",
+                  "pinyin": "jiāyóu",
+                  "meaning": "Do your best! Go! (Shouted to cheer players on, literally means \"add fuel!\")"
+                },
+                {
+                  "char": "馆",
+                  "pinyin": "guǎn",
+                  "meaning": "indoor court or field (for playing sports)"
+                },
+                {
+                  "char": "经常",
+                  "pinyin": "jīngcháng",
+                  "meaning": "frequently, often"
+                },
+                {
+                  "char": "做",
+                  "pinyin": "zuò",
+                  "meaning": "to do, to make"
+                },
+                {
+                  "char": "运动",
+                  "pinyin": "yùndòng",
+                  "meaning": "sports, exercise"
+                },
+                {
+                  "char": "在",
+                  "pinyin": "zài",
+                  "meaning": "at, in"
+                },
+                {
+                  "char": "比赛",
+                  "pinyin": "bǐsài",
+                  "meaning": "game, match, competition"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "u2c0wdq1l",
+          "title": "Chapter 6: Appreciating New Sounds",
+          "sections": [
+            {
+              "id": "u2c0wdq1lsnpxypb",
+              "title": "Section 1 - Playing Musical instruments",
+              "characters": [
+                {
+                  "char": "弹",
+                  "pinyin": "tán",
+                  "meaning": "to strum, to pluck, to play"
+                },
+                {
+                  "char": "吉他",
+                  "pinyin": "jítā",
+                  "meaning": "guitar"
+                },
+                {
+                  "char": "乐器",
+                  "pinyin": "yuèqì",
+                  "meaning": "musical instrument"
+                },
+                {
+                  "char": "古筝",
+                  "pinyin": "gǔzhēng",
+                  "meaning": "guzheng"
+                },
+                {
+                  "char": "拉",
+                  "pinyin": "lā",
+                  "meaning": "to pull, to play"
+                },
+                {
+                  "char": "二胡",
+                  "pinyin": "èrhú",
+                  "meaning": "erhu"
+                },
+                {
+                  "char": "吹",
+                  "pinyin": "chuī",
+                  "meaning": "to blow, to play"
+                },
+                {
+                  "char": "弟子",
+                  "pinyin": "dízi",
+                  "meaning": "flute"
+                }
+              ]
+            },
+            {
+              "id": "u2c0wdq1lsbznovi",
+              "title": "Section 2 - Exclamations, suggestions, and questions",
+              "characters": [
+                {
+                  "char": "呢",
+                  "pinyin": "ne",
+                  "meaning": "(word added at the end of a sentence to ask a follow-up question or to ask a question back to someone)"
+                },
+                {
+                  "char": "店",
+                  "pinyin": "diàn",
+                  "meaning": "store, shop"
+                },
+                {
+                  "char": "卖",
+                  "pinyin": "mài",
+                  "meaning": "to sell"
+                },
+                {
+                  "char": "买",
+                  "pinyin": "mǎi",
+                  "meaning": "to buy"
+                },
+                {
+                  "char": "吧",
+                  "pinyin": "ba",
+                  "meaning": "(word added at the end of a sentence to make a suggestion or to soften the tone)"
+                },
+                {
+                  "char": "啊",
+                  "pinyin": "a",
+                  "meaning": "(word added at the end of a sentence to add emphasis or excitement)"
+                }
+              ]
+            },
+            {
+              "id": "u2c0wdq1lstz9a2i",
+              "title": "Section 3 - Teaching and learning musical instruments",
+              "characters": [
+                {
+                  "char": "听",
+                  "pinyin": "tīng",
+                  "meaning": "to listen to, to hear"
+                },
+                {
+                  "char": "音乐",
+                  "pinyin": "yīnyuè",
+                  "meaning": "music"
+                },
+                {
+                  "char": "可以",
+                  "pinyin": "kěyǐ",
+                  "meaning": "can, could, may"
+                },
+                {
+                  "char": "教",
+                  "pinyin": "jiāo",
+                  "meaning": "to teach"
+                },
+                {
+                  "char": "谢谢",
+                  "pinyin": "xiè xie",
+                  "meaning": "thank you, thank"
+                },
+                {
+                  "char": "李",
+                  "pinyin": "lǐ",
+                  "meaning": "Li(surname, sometimes spelled Lee)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u318gp4",
+      "title": "Unit 3: Celebrating Special occasions",
+      "chapters": [
+        {
+          "id": "u318gp4cxwi75l",
+          "title": "Chapter 7: Do you have plans?",
+          "sections": [
+            {
+              "id": "u318gp4cxwi75lszicvof",
+              "title": "Section 1 - Scheduling an activity",
+              "characters": [
+                {
+                  "char": "今天",
+                  "pinyin": "jīntiān",
+                  "meaning": "today"
+                },
+                {
+                  "char": "星期五",
+                  "pinyin": "xīngqīwǔ",
+                  "meaning": "Friday"
+                },
+                {
+                  "char": "电影",
+                  "pinyin": "diànyǐng",
+                  "meaning": "movie, motion picture"
+                },
+                {
+                  "char": "有空",
+                  "pinyin": "yǒukòng",
+                  "meaning": "to have free time, to be free"
+                },
+                {
+                  "char": "明天",
+                  "pinyin": "míngtiān",
+                  "meaning": "tomorrow"
+                },
+                {
+                  "char": "后天",
+                  "pinyin": "hòutiān",
+                  "meaning": "the day after tomorrow"
+                }
+              ]
+            },
+            {
+              "id": "u318gp4cxwi75lsi6nkkz",
+              "title": "Section 2 - Talking about birthday",
+              "characters": [
+                {
+                  "char": "生日",
+                  "pinyin": "shēngrì",
+                  "meaning": "birthday"
+                },
+                {
+                  "char": "月",
+                  "pinyin": "yuè",
+                  "meaning": "month, moon"
+                },
+                {
+                  "char": "号",
+                  "pinyin": "hào",
+                  "meaning": "day of the month"
+                },
+                {
+                  "char": "六月",
+                  "pinyin": "liùyuè",
+                  "meaning": "June"
+                },
+                {
+                  "char": "二十一",
+                  "pinyin": "èrshíyī",
+                  "meaning": "twenty-one"
+                },
+                {
+                  "char": "下个",
+                  "pinyin": "xiàge",
+                  "meaning": "next"
+                },
+                {
+                  "char": "周末",
+                  "pinyin": "zhōumò",
+                  "meaning": "weekend"
+                }
+              ]
+            },
+            {
+              "id": "u318gp4cxwi75ls6ftwok",
+              "title": "Section 3 - Reacting to new information",
+              "characters": [
+                {
+                  "char": "礼物",
+                  "pinyin": "lǐwù",
+                  "meaning": "gift"
+                },
+                {
+                  "char": "那",
+                  "pinyin": "nà",
+                  "meaning": "in that case, then, so"
+                },
+                {
+                  "char": "问",
+                  "pinyin": "wèn",
+                  "meaning": "to ask(a question)"
+                },
+                {
+                  "char": "一定",
+                  "pinyin": "yídìng",
+                  "meaning": "certainly, definitely"
+                },
+                {
+                  "char": "主意",
+                  "pinyin": "zhǔyi",
+                  "meaning": "idea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "u318gp4ce7c6ma",
+          "title": "Chapter 8 - Shopping for the perfect gift",
+          "sections": [
+            {
+              "id": "u318gp4ce7c6masag1w9v",
+              "title": "Section 1 - times of day",
+              "characters": [
+                {
+                  "char": "喂",
+                  "pinyin": "wéi",
+                  "meaning": "hello (over the phone)"
+                },
+                {
+                  "char": "早上",
+                  "pinyin": "zǎoshàng",
+                  "meaning": "early morning (until about 9:00 am)"
+                },
+                {
+                  "char": "下午",
+                  "pinyin": "xiàwǔ",
+                  "meaning": "afternoon"
+                },
+                {
+                  "char": "要",
+                  "pinyin": "yào",
+                  "meaning": "to be going to (do something), to want (something; to do something)"
+                },
+                {
+                  "char": "晚上",
+                  "pinyin": "wǎnshàng",
+                  "meaning": "night, evening"
+                },
+                {
+                  "char": "事",
+                  "pinyin": "shì",
+                  "meaning": "thing, matter, something to do"
+                },
+                {
+                  "char": "见",
+                  "pinyin": "jiàn",
+                  "meaning": "to meet with, to see"
+                },
+                {
+                  "char": "中午",
+                  "pinyin": "zhōngwǔ",
+                  "meaning": "noon"
+                },
+                {
+                  "char": "上午",
+                  "pinyin": "shàngwǔ",
+                  "meaning": "morning (before noon)"
+                }
+              ]
+            },
+            {
+              "id": "u318gp4ce7c6mas1rnunh",
+              "title": "Section 2 - Shopping choices",
+              "characters": [
+                {
+                  "char": "本",
+                  "pinyin": "běn",
+                  "meaning": "MW for books"
+                },
+                {
+                  "char": "便宜",
+                  "pinyin": "piányi",
+                  "meaning": "cheap, inexpensive"
+                },
+                {
+                  "char": "难",
+                  "pinyin": "nán",
+                  "meaning": "difficult"
+                },
+                {
+                  "char": "简单",
+                  "pinyin": "jiǎndān",
+                  "meaning": "simple"
+                },
+                {
+                  "char": "而且",
+                  "pinyin": "érqiě",
+                  "meaning": "and also"
+                },
+                {
+                  "char": "贵",
+                  "pinyin": "guì",
+                  "meaning": "expensive"
+                }
+              ]
+            },
+            {
+              "id": "u318gp4ce7c6masy6f99e",
+              "title": "Section 3 - Buying clothes",
+              "characters": [
+                {
+                  "char": "件",
+                  "pinyin": "jiàn",
+                  "meaning": "MW for clothing"
+                },
+                {
+                  "char": "衣服",
+                  "pinyin": "yīfu",
+                  "meaning": "clothing"
+                },
+                {
+                  "char": "好看",
+                  "pinyin": "hǎokàn",
+                  "meaning": "good-looking, nice-looking (used for people and things)"
+                },
+                {
+                  "char": "送",
+                  "pinyin": "sòng",
+                  "meaning": "to give (a gifts)"
+                },
+                {
+                  "char": "颜色",
+                  "pinyin": "yánsè",
+                  "meaning": "color"
+                },
+                {
+                  "char": "同意",
+                  "pinyin": "tóngyì",
+                  "meaning": "to agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "u318gp4cwp2kxq",
+          "title": "Chapter 9: A Birthday Dinner",
+          "sections": [
+            {
+              "id": "u318gp4cwp2kxqskckp58",
+              "title": "Section 1 - Doing things for others",
+              "characters": [
+                {
+                  "char": "吃",
+                  "pinyin": "chī",
+                  "meaning": "to eat"
+                },
+                {
+                  "char": "好吃",
+                  "pinyin": "hǎochī",
+                  "meaning": "tasty, delicious"
+                },
+                {
+                  "char": "菜",
+                  "pinyin": "cài",
+                  "meaning": "a dish(of food); cuisine; vegetables"
+                },
+                {
+                  "char": "种",
+                  "pinyin": "zhǒng",
+                  "meaning": "MW for kinds, sorts, types"
+                },
+                {
+                  "char": "点",
+                  "pinyin": "diǎn",
+                  "meaning": "to order (food)"
+                },
+                {
+                  "char": "给",
+                  "pinyin": "gěi",
+                  "meaning": "to give; for, to"
+                },
+                {
+                  "char": "打电话",
+                  "pinyin": "dǎ diànhuà",
+                  "meaning": "to make a phone call"
+                },
+                {
+                  "char": "做菜",
+                  "pinyin": "zuòcài",
+                  "meaning": "to make a dish (of food)"
+                }
+              ]
+            },
+            {
+              "id": "u318gp4cwp2kxqs41xfy6",
+              "title": "Section 2 - Talking about yesterday",
+              "characters": [
+                {
+                  "char": "饺子",
+                  "pinyin": "jiǎozi",
+                  "meaning": "dumplings (with vegetable and/or meat filling)"
+                },
+                {
+                  "char": "昨天",
+                  "pinyin": "zuótiān",
+                  "meaning": "yesterday"
+                },
+                {
+                  "char": "了",
+                  "pinyin": "le",
+                  "meaning": "a word that indicates an action is complete"
+                },
+                {
+                  "char": "饭馆",
+                  "pinyin": "fànguǎn",
+                  "meaning": "restaurant"
+                },
+                {
+                  "char": "份",
+                  "pinyin": "fèn",
+                  "meaning": "(MW for a portion/serving of something)"
+                },
+                {
+                  "char": "面条",
+                  "pinyin": "miàntiáo",
+                  "meaning": "noodles"
+                },
+                {
+                  "char": "红烧",
+                  "pinyin": "hóngshāo",
+                  "meaning": "to braise in soy sauce (to red-cook)"
+                },
+                {
+                  "char": "肉",
+                  "pinyin": "ròu",
+                  "meaning": "meat (frequently pork)"
+                }
+              ]
+            },
+            {
+              "id": "u318gp4cwp2kxqs6ke0je",
+              "title": "Section 3 - Asking and answering the question \"why?\"",
+              "characters": [
+                {
+                  "char": "祝",
+                  "pinyin": "zhù",
+                  "meaning": "to wish (well)"
+                },
+                {
+                  "char": "快乐",
+                  "pinyin": "kuàilè",
+                  "meaning": "happy"
+                },
+                {
+                  "char": "为什么",
+                  "pinyin": "wèishén me",
+                  "meaning": "why"
+                },
+                {
+                  "char": "因为",
+                  "pinyin": "yīnwèi",
+                  "meaning": "because"
+                },
+                {
+                  "char": "所以",
+                  "pinyin": "suǒyǐ",
+                  "meaning": "so, therefore"
+                },
+                {
+                  "char": "多",
+                  "pinyin": "duō",
+                  "meaning": "many, much, lots"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uqhfhru",
+      "title": "Unit 4: School Life",
+      "chapters": [
+        {
+          "id": "uqhfhrucjgszey",
+          "title": "Chapter 10: Too Many Classes!",
+          "sections": [
+            {
+              "id": "uqhfhrucjgszeysdirry5",
+              "title": "Section 1 - Class preferences",
+              "characters": [
+                {
+                  "char": "最",
+                  "pinyin": "zuì",
+                  "meaning": "most, -est"
+                },
+                {
+                  "char": "哪",
+                  "pinyin": "nǎ",
+                  "meaning": "which"
+                },
+                {
+                  "char": "门",
+                  "pinyin": "mén",
+                  "meaning": "MW for a course"
+                },
+                {
+                  "char": "课",
+                  "pinyin": "kè",
+                  "meaning": "course, class, lesson"
+                },
+                {
+                  "char": "科学",
+                  "pinyin": "kēxué",
+                  "meaning": "science"
+                },
+                {
+                  "char": "还",
+                  "pinyin": "hái",
+                  "meaning": "also, in addition, too, as well"
+                },
+                {
+                  "char": "数学",
+                  "pinyin": "shùxué",
+                  "meaning": "math"
+                }
+              ]
+            },
+            {
+              "id": "uqhfhrucjgszeysh85iel",
+              "title": "Section 2 - Choosing courses",
+              "characters": [
+                {
+                  "char": "选",
+                  "pinyin": "xuǎn",
+                  "meaning": "to choose"
+                },
+                {
+                  "char": "历史",
+                  "pinyin": "lìshǐ",
+                  "meaning": "history"
+                },
+                {
+                  "char": "文学",
+                  "pinyin": "wénxué",
+                  "meaning": "literature"
+                },
+                {
+                  "char": "说",
+                  "pinyin": "shuō",
+                  "meaning": "to say, to speak"
+                },
+                {
+                  "char": "比",
+                  "pinyin": "bǐ",
+                  "meaning": "compared with"
+                },
+                {
+                  "char": "更",
+                  "pinyin": "gèng",
+                  "meaning": "even more"
+                },
+                {
+                  "char": "重要",
+                  "pinyin": "zhòngyào",
+                  "meaning": "important"
+                },
+                {
+                  "char": "上课",
+                  "pinyin": "shàngkè",
+                  "meaning": "to go to a class, to begin a class, to be in class"
+                }
+              ]
+            },
+            {
+              "id": "uqhfhrucjgszeyspea3us",
+              "title": "Section 3 - Talking about feelings",
+              "characters": [
+                {
+                  "char": "心情",
+                  "pinyin": "xīnqíng",
+                  "meaning": "mood, state of mind"
+                },
+                {
+                  "char": "怎么样",
+                  "pinyin": "zěnmeyàng",
+                  "meaning": "How is...?; How about it? Is it OK? How does that sound?"
+                },
+                {
+                  "char": "挺",
+                  "pinyin": "tǐng",
+                  "meaning": "quite, fairly, pretty, rather"
+                },
+                {
+                  "char": "高兴",
+                  "pinyin": "gāoxìng",
+                  "meaning": "happy, pleased"
+                },
+                {
+                  "char": "太",
+                  "pinyin": "tài",
+                  "meaning": "too, extremely, overly"
+                },
+                {
+                  "char": "紧张",
+                  "pinyin": "jǐnzhāng",
+                  "meaning": "nervous, anxious"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "uqhfhrucrw4qj0",
+          "title": "Chapter 11: How's it going?",
+          "sections": [
+            {
+              "id": "uqhfhrucrw4qj0sy0b4sv",
+              "title": "Section 1 - Talking about time",
+              "characters": [
+                {
+                  "char": "点",
+                  "pinyin": "diǎn",
+                  "meaning": "o'clock (literally, dot or point)"
+                },
+                {
+                  "char": "分",
+                  "pinyin": "fēn",
+                  "meaning": "minute"
+                },
+                {
+                  "char": "才",
+                  "pinyin": "cái",
+                  "meaning": "not until, only then"
+                },
+                {
+                  "char": "开始",
+                  "pinyin": "kāishǐ",
+                  "meaning": "to start, to begin; beginning"
+                },
+                {
+                  "char": "作业",
+                  "pinyin": "zuòyè",
+                  "meaning": "homework"
+                },
+                {
+                  "char": "半",
+                  "pinyin": "bàn",
+                  "meaning": "half, half and hour"
+                },
+                {
+                  "char": "睡觉",
+                  "pinyin": "shuìjiào",
+                  "meaning": "to sleep"
+                },
+                {
+                  "char": "起床",
+                  "pinyin": "qǐchuáng",
+                  "meaning": "to get up, to get out of bed"
+                }
+              ]
+            },
+            {
+              "id": "uqhfhrucrw4qj0sckhsv5",
+              "title": "Section 2 - Talking about schedules",
+              "characters": [
+                {
+                  "char": "时间",
+                  "pinyin": "shíjiān",
+                  "meaning": "time"
+                },
+                {
+                  "char": "忙",
+                  "pinyin": "máng",
+                  "meaning": "busy"
+                },
+                {
+                  "char": "每",
+                  "pinyin": "měi",
+                  "meaning": "every, each"
+                },
+                {
+                  "char": "天",
+                  "pinyin": "tiān",
+                  "meaning": "day"
+                },
+                {
+                  "char": "不用",
+                  "pinyin": "búyòng",
+                  "meaning": "don't need to, don't have to"
+                },
+                {
+                  "char": "得",
+                  "pinyin": "děi",
+                  "meaning": "must, to have to, need to"
+                },
+                {
+                  "char": "累",
+                  "pinyin": "lèi",
+                  "meaning": "tired, tiring"
+                }
+              ]
+            },
+            {
+              "id": "uqhfhrucrw4qj0sd27rwl",
+              "title": "Section 3 - Shared experiences",
+              "characters": [
+                {
+                  "char": "有的",
+                  "pinyin": "yǒude",
+                  "meaning": "some"
+                },
+                {
+                  "char": "时候",
+                  "pinyin": "shíhou",
+                  "meaning": "(a point in) time, moment"
+                },
+                {
+                  "char": "跟",
+                  "pinyin": "gēn",
+                  "meaning": "with, and; to"
+                },
+                {
+                  "char": "一样",
+                  "pinyin": "yíyàng",
+                  "meaning": "same, alike; as..as"
+                },
+                {
+                  "char": "一起",
+                  "pinyin": "yǐqǐ",
+                  "meaning": "together"
+                },
+                {
+                  "char": "饭",
+                  "pinyin": "fàn",
+                  "meaning": "meal, cooked rice"
+                },
+                {
+                  "char": "已经",
+                  "pinyin": "yǐjīng",
+                  "meaning": "already"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "uqhfhrucpk6j1j",
+          "title": "Chapter 12: Taking Care of Yourself",
+          "sections": [
+            {
+              "id": "uqhfhrucpk6j1jse9m9cm",
+              "title": "Section 1 - Just a little bit",
+              "characters": [
+                {
+                  "char": "能",
+                  "pinyin": "néng",
+                  "meaning": "can, to be able"
+                },
+                {
+                  "char": "请假",
+                  "pinyin": "qǐngjià",
+                  "meaning": "to ask for time off, to ask to be excused from (school, work)"
+                },
+                {
+                  "char": "完",
+                  "pinyin": "wǎn",
+                  "meaning": "late"
+                },
+                {
+                  "char": "一点儿",
+                  "pinyin": "(yì)diǎnr",
+                  "meaning": "a bit, a little, some"
+                },
+                {
+                  "char": "喝",
+                  "pinyin": "hē",
+                  "meaning": "to drink"
+                },
+                {
+                  "char": "水",
+                  "pinyin": "shuǐ",
+                  "meaning": "water"
+                },
+                {
+                  "char": "早",
+                  "pinyin": "zǎo",
+                  "meaning": "early"
+                }
+              ]
+            },
+            {
+              "id": "uqhfhrucpk6j1jsmj8ptt",
+              "title": "Section 2 - Expressing slight discomfort",
+              "characters": [
+                {
+                  "char": "冷",
+                  "pinyin": "lěng",
+                  "meaning": "cold"
+                },
+                {
+                  "char": "热",
+                  "pinyin": "rè",
+                  "meaning": "hot"
+                },
+                {
+                  "char": "舒服",
+                  "pinyin": "shū fu",
+                  "meaning": "comfortable"
+                },
+                {
+                  "char": "渴",
+                  "pinyin": "kě",
+                  "meaning": "thirsty"
+                },
+                {
+                  "char": "休息",
+                  "pinyin": "xiūxí",
+                  "meaning": "to rest, to take a break"
+                },
+                {
+                  "char": "饿",
+                  "pinyin": "è",
+                  "meaning": "hungry"
+                }
+              ]
+            },
+            {
+              "id": "uqhfhrucpk6j1jskv6vr3",
+              "title": "Section 3 - Getting sick",
+              "characters": [
+                {
+                  "char": "生病",
+                  "pinyin": "shēngbìng",
+                  "meaning": "to get sick"
+                },
+                {
+                  "char": "感冒",
+                  "pinyin": "gǎnmào",
+                  "meaning": "common cold; to have a cold, to catch a cold"
+                },
+                {
+                  "char": "头",
+                  "pinyin": "tóu",
+                  "meaning": "head"
+                },
+                {
+                  "char": "疼",
+                  "pinyin": "téng",
+                  "meaning": "-ache, aching"
+                },
+                {
+                  "char": "发烧",
+                  "pinyin": "fāshāo",
+                  "meaning": "to have a fever"
+                },
+                {
+                  "char": "来",
+                  "pinyin": "lái",
+                  "meaning": "to come"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u0k9p8x",
+      "title": "Unit 5: A Balanced Schedule",
+      "chapters": [
+        {
+          "id": "u0k9p8xcw4pn5r",
+          "title": "Chapter 13: Looking for support",
+          "sections": [
+            {
+              "id": "u0k9p8xcw4pn5rsu80633",
+              "title": "Section 1 - Again?",
+              "characters": [
+                {
+                  "char": "又",
+                  "pinyin": "yòu",
+                  "meaning": "again"
+                },
+                {
+                  "char": "问题",
+                  "pinyin": "wèntí",
+                  "meaning": "problem, question"
+                },
+                {
+                  "char": "还",
+                  "pinyin": "hái",
+                  "meaning": "still, yet; also"
+                },
+                {
+                  "char": "再",
+                  "pinyin": "zài",
+                  "meaning": "again; then"
+                },
+                {
+                  "char": "先",
+                  "pinyin": "xiān",
+                  "meaning": "first"
+                },
+                {
+                  "char": "然后",
+                  "pinyin": "ránhòu",
+                  "meaning": "and then"
+                },
+                {
+                  "char": "最后",
+                  "pinyin": "zuìhòu",
+                  "meaning": "final, last; finally, lastly"
+                }
+              ]
+            },
+            {
+              "id": "u0k9p8xcw4pn5rs7w1egt",
+              "title": "Section 2 - Study plans",
+              "characters": [
+                {
+                  "char": "告诉",
+                  "pinyin": "gàosu",
+                  "meaning": "to tell"
+                },
+                {
+                  "char": "学习",
+                  "pinyin": "xuéxí",
+                  "meaning": "studies; to study, to learn"
+                },
+                {
+                  "char": "计划",
+                  "pinyin": "jìhuà",
+                  "meaning": "plan; to plan"
+                },
+                {
+                  "char": "完",
+                  "pinyin": "wán",
+                  "meaning": "to finish, to complete"
+                },
+                {
+                  "char": "预习",
+                  "pinyin": "yùxí",
+                  "meaning": "to preview, to study (materials not yet taught in class)"
+                },
+                {
+                  "char": "复习",
+                  "pinyin": "fùxí",
+                  "meaning": "to review, to study (materials already taught)"
+                },
+                {
+                  "char": "少",
+                  "pinyin": "shǎo",
+                  "meaning": "few, not many, less"
+                }
+              ]
+            },
+            {
+              "id": "u0k9p8xcw4pn5rsq4koim",
+              "title": "Section 3 - Expressing what will happen",
+              "characters": [
+                {
+                  "char": "别",
+                  "pinyin": "bié",
+                  "meaning": "don't (in advice or a command)"
+                },
+                {
+                  "char": "如果",
+                  "pinyin": "rúguǒ",
+                  "meaning": "if"
+                },
+                {
+                  "char": "收拾",
+                  "pinyin": "shōushi",
+                  "meaning": "to pack (up), to tidy (up), to put things away"
+                },
+                {
+                  "char": "东西",
+                  "pinyin": "dōngxi",
+                  "meaning": "thing(s)"
+                },
+                {
+                  "char": "会",
+                  "pinyin": "huì",
+                  "meaning": "will; can, know how to "
+                },
+                {
+                  "char": "迟到",
+                  "pinyin": "chídào",
+                  "meaning": "to be late, to arrive late"
+                },
+                {
+                  "char": "帮",
+                  "pinyin": "bāng",
+                  "meaning": "to help"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "u0k9p8xcnlbvfi",
+          "title": "Chapter 14: Making Progress",
+          "sections": [
+            {
+              "id": "u0k9p8xcnlbvfis5zce3r",
+              "title": "Section 1 - Learning Chinese",
+              "characters": [
+                {
+                  "char": "以前",
+                  "pinyin": "yǐqián",
+                  "meaning": "before, ago"
+                },
+                {
+                  "char": "以为",
+                  "pinyin": "yǐwéi",
+                  "meaning": "to mistakenly think, to assume incorrectly"
+                },
+                {
+                  "char": "但是",
+                  "pinyin": "dànshì",
+                  "meaning": "but, however"
+                },
+                {
+                  "char": "起来",
+                  "pinyin": "qǐ lái",
+                  "meaning": "a word that follows a verb and is used to introduce an impression"
+                },
+                {
+                  "char": "容易",
+                  "pinyin": "róngyì",
+                  "meaning": "easy"
+                },
+                {
+                  "char": "语法",
+                  "pinyin": "yǔfǎ",
+                  "meaning": "grammar"
+                },
+                {
+                  "char": "懂",
+                  "pinyin": "dǒng",
+                  "meaning": "to understand"
+                }
+              ]
+            },
+            {
+              "id": "u0k9p8xcnlbvfis83mt5v",
+              "title": "Section 2 - Discussing past experiences",
+              "characters": [
+                {
+                  "char": "过",
+                  "pinyin": "guò",
+                  "meaning": "word used after a verb to indicate a past experience"
+                },
+                {
+                  "char": "题",
+                  "pinyin": "tí",
+                  "meaning": "question, problem (in home or on a test)"
+                },
+                {
+                  "char": "答案",
+                  "pinyin": "dá‘àn",
+                  "meaning": "answer"
+                },
+                {
+                  "char": "就",
+                  "pinyin": "jiù",
+                  "meaning": "precisely, exactly"
+                },
+                {
+                  "char": "错",
+                  "pinyin": "cuò",
+                  "meaning": "wrong, incorrect"
+                },
+                {
+                  "char": "客气",
+                  "pinyin": "kèqi",
+                  "meaning": "polite; to be polite/courteous"
+                }
+              ]
+            },
+            {
+              "id": "u0k9p8xcnlbvfiseqr9c1",
+              "title": "Section 3 - Better and better",
+              "characters": [
+                {
+                  "char": "些",
+                  "pinyin": "xiē",
+                  "meaning": "some, a few"
+                },
+                {
+                  "char": "生词",
+                  "pinyin": "shēngcí",
+                  "meaning": "new words, vocabulary"
+                },
+                {
+                  "char": "练习",
+                  "pinyin": "liànxí",
+                  "meaning": "to practice; exercises"
+                },
+                {
+                  "char": "写",
+                  "pinyin": "xiě",
+                  "meaning": "to write"
+                },
+                {
+                  "char": "汉子",
+                  "pinyin": "hànzì",
+                  "meaning": "Chinese characters"
+                },
+                {
+                  "char": "越来越",
+                  "pinyin": "yuè lái yuè",
+                  "meaning": "more and more"
+                },
+                {
+                  "char": "发音",
+                  "pinyin": "fāyīn",
+                  "meaning": "pronunciation; to pronounce"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "u0k9p8xcr7bz4p",
+          "title": "Chapter 15: School and Activities",
+          "sections": [
+            {
+              "id": "u0k9p8xcr7bz4pswh6xz6",
+              "title": "Section 1 - Doing things well",
+              "characters": [
+                {
+                  "char": "加入",
+                  "pinyin": "jiārù",
+                  "meaning": "to join"
+                },
+                {
+                  "char": "俱乐部",
+                  "pinyin": "jùlèbù",
+                  "meaning": "club"
+                },
+                {
+                  "char": "认识",
+                  "pinyin": "rènshi",
+                  "meaning": "to know (a person), to recognize"
+                },
+                {
+                  "char": "新",
+                  "pinyin": "xīn",
+                  "meaning": "new"
+                },
+                {
+                  "char": "得",
+                  "pinyin": "de",
+                  "meaning": "word used to link a verb to a description of the manner in which it was done"
+                },
+                {
+                  "char": "最近",
+                  "pinyin": "zuìjìn",
+                  "meaning": "recently"
+                }
+              ]
+            },
+            {
+              "id": "u0k9p8xcr7bz4psyj769x",
+              "title": "Section 2 - Enjoyable activities",
+              "characters": [
+                {
+                  "char": "唱歌",
+                  "pinyin": "chànggē",
+                  "meaning": "to sing (a song)"
+                },
+                {
+                  "char": "跳舞",
+                  "pinyin": "tiàowǔ",
+                  "meaning": "to dance, to do a (kind of) dance"
+                },
+                {
+                  "char": "应该",
+                  "pinyin": "yīnggāi",
+                  "meaning": "should, ought to"
+                },
+                {
+                  "char": "聊天儿",
+                  "pinyin": "liáo tiānr",
+                  "meaning": "to chat"
+                },
+                {
+                  "char": "玩儿",
+                  "pinyin": "wánr",
+                  "meaning": "to have fun, to play, to hang out"
+                },
+                {
+                  "char": "见面",
+                  "pinyin": "jiànmiàn",
+                  "meaning": "to meet (up), to meet with"
+                },
+                {
+                  "char": "酷",
+                  "pinyin": "kù",
+                  "meaning": "cool (meaning: awesome, great)"
+                }
+              ]
+            },
+            {
+              "id": "u0k9p8xcr7bz4ps8bijdp",
+              "title": "Section 3 - Contrasting statements",
+              "characters": [
+                {
+                  "char": "放假",
+                  "pinyin": "fàngjià",
+                  "meaning": "to have a vacation (or holiday), to have time off"
+                },
+                {
+                  "char": "回",
+                  "pinyin": "huí",
+                  "meaning": "to return, to go back"
+                },
+                {
+                  "char": "学期",
+                  "pinyin": "xuéqī",
+                  "meaning": "school term, semester"
+                },
+                {
+                  "char": "虽然",
+                  "pinyin": "suīrán",
+                  "meaning": "although"
+                },
+                {
+                  "char": "希望",
+                  "pinyin": "xīwàng",
+                  "meaning": "to hope, to wish; hope"
+                },
+                {
+                  "char": "成绩",
+                  "pinyin": "chéngjì",
+                  "meaning": "grades, score, achievement"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

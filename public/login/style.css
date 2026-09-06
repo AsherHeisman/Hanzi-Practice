@@ -1,0 +1,50 @@
+@import url("/shared/style.css");
+.login-page { display: grid; place-items: center; padding: 20px; }
+.login-card { background: var(--card); border: 1px solid var(--border); border-radius: 24px; text-align: center; padding: 24px 32px; width: min(100%, 360px); box-shadow: var(--shadow-card); }
+.login-card h1 { font-size: 1.65rem; margin-bottom: 8px; }
+.login-card>p { color: var(--ink-soft); font-size: .875rem; }
+.pin-input { position: absolute; width: 1px; height: 1px; min-height: 0; padding: 0; opacity: 0; border: 0; }
+.pin-entry { border-radius: 8px; position: relative; }
+.pin-entry:focus-within { outline: 2px solid var(--accent); outline-offset: 4px; }
+.pin-dots { display: flex; justify-content: center; gap: 18px; padding: 12px; margin: 4px 0; cursor: text; }
+.dot { width: 14px; height: 14px; border: 1.5px solid var(--accent); border-radius: 50%; }
+.dot.filled { background: var(--accent); }
+.pin-dots.shake .dot { border-color: var(--error); }
+.shake { animation: shake .35s ease; }
+@keyframes shake { 25%,75% { transform: translateX(-5px); } 50% { transform: translateX(5px); } }
+#pin-error-msg { min-height: 24px; margin: 0 0 10px; font-size: .8rem; color: var(--ink); }
+#pin-error-msg.error-state { color: var(--error); }
+.pin-keypad { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center; }
+.key { border-radius: 50%; width: 56px; height: 56px; font-size: 1.35rem; font-weight: 400; background: var(--ink-wash); color: var(--ink); padding: 0; }
+.key:hover { background: var(--ink-wash-strong); }
+.key.empty { visibility: hidden; }
+@media (max-width: 420px) {
+.login-card { padding: 26px 22px; }
+}
+.pin-login .site-search, .pin-login .site-nav, .pin-login .nav-toggle { display: none; }
+.pin-login .site-header-inner { min-height: 64px; padding-top: 10px; padding-bottom: 10px; }
+.pin-login .login-page { padding: 16px 20px; }
+.login-back { display: inline-block; margin-top: 18px; font-size: .875rem; }
+@media (max-height: 700px) {
+.pin-login .login-card { padding: 18px 26px; }
+.pin-login .login-page { padding-top: 12px; padding-bottom: 12px; }
+.pin-login .key { width: 48px; height: 48px; min-height: 44px; }
+.pin-login .pin-keypad { gap: 8px; }
+.pin-login .login-back { margin-top: 12px; }
+}
+@media (max-height: 600px) and (min-width: 520px) {
+.pin-login .login-card { display: grid; grid-template-columns: 1fr 1fr; column-gap: 28px; align-items: center; width: min(100%, 570px); padding: 18px 24px; }
+.pin-login .login-card h1 { grid-column: 1; grid-row: 1; }
+.pin-login .pin-entry { grid-column: 1; grid-row: 2; }
+.pin-login #pin-error-msg { grid-column: 1; grid-row: 3; margin-bottom: 0; }
+.pin-login .login-back { grid-column: 1; grid-row: 4; margin-top: 0; }
+.pin-login .pin-keypad { grid-column: 2; grid-row: 1 / 5; }
+}
+@media (max-height: 500px) and (max-width: 519px) {
+.pin-login .login-card { padding: 12px 22px; }
+.pin-login .login-card h1 { font-size: 1.4rem; }
+.pin-login .key { width: 44px; height: 44px; }
+.pin-login .pin-dots { padding: 8px; }
+.pin-login .login-page { padding-top: 8px; padding-bottom: 8px; }
+}
+.login-back { display: inline-flex; align-items: center; gap: 6px; }

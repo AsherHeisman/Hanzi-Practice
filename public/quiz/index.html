@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pop Quiz - Hanzi Learning</title>
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/quiz/style.css">
+</head>
+<body data-page="popquiz">
+  <header id="site-header"></header>
+
+  <main class="page" id="main-content">
+
+    <h1>Make it a pop quiz.</h1>
+    <p class="breadcrumb">Choose your scope and practice writing from memory.</p>
+
+    <div class="quiz-layout"><section class="panel">
+      <div class="quiz-config">
+        <label>
+          Textbook
+          <select id="quiz-book-select"></select>
+        </label>
+        <label>
+          Unit
+          <select id="quiz-unit-select"></select>
+        </label>
+        <label>
+          Chapter
+          <select id="quiz-chapter-select"></select>
+        </label>
+        <label>
+          Number of characters: <span id="quiz-count-value">20</span>
+          <input type="range" id="quiz-count" min="10" max="100" step="5" value="20">
+        </label>
+        <button id="start-random-quiz"> Start Pop Quiz</button>
+      </div>
+      <p id="quiz-config-note" class="breadcrumb"></p>
+    </section><aside class="quiz-aside"><h2>Put your pen to the test.</h2><ol><li>Choose a textbook, unit, or chapter to focus on.</li><li>Use the pinyin and meaning to recall the word.</li><li>Draw each stroke in order. Hints will help you along.</li></ol><p>Smaller word pools may repeat so you can keep practicing.</p></aside></div>
+  </main>
+
+  <footer id="site-footer"></footer>
+
+  <script src="/shared/common.js"></script>
+  <script src="/quiz/script.js"></script>
+</body>
+</html>
+<!--YC-->

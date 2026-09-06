@@ -1,0 +1,33 @@
+@import url("/shared/style.css");
+@import url("/admin/shared/style.css");
+.editor-toolbar { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 12px; margin-bottom: 16px; }
+.editor-toolbar label { min-width: 165px; }
+.editor-toolbar .toolbar-end { margin-left: auto; display: flex; gap: 10px; flex-wrap: wrap; }
+.editor-layout { display: grid; grid-template-columns: 260px minmax(0,1fr); gap: 22px; align-items: start; }
+.editor-tree { max-height: 70vh; overflow: auto; padding: 18px; }
+.tree-unit { margin: 12px 0; }
+.tree-unit>summary { cursor: pointer; font-weight: 600; font-size: .875rem; padding: 7px 0; }
+.tree-chapter { margin: 5px 0 12px 8px; }
+.tree-chapter>button { font-size: .8rem; }
+.tree-link { display: block; width: 100%; text-align: left; justify-content: start; padding: 9px; min-height: 36px; color: var(--ink-soft); background: transparent; border-radius: 6px; font-weight: 400; font-size: .8rem; }
+.tree-link:hover, .tree-link.active { background: var(--ink-wash); color: var(--accent); }
+.tree-actions { display: flex; gap: 5px; }
+.tree-actions button { padding: 5px 8px; min-height: 32px; font-size: .75rem; }
+.editor-form { padding: 24px; }
+.editor-form>label, .editor-form>.field-row { margin-bottom: 18px; }
+.field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.word-fields { display: grid; grid-template-columns: 1fr 1.3fr 2fr 40px; gap: 10px; align-items: end; padding: 16px 0; border-bottom: 1px solid var(--border); }
+.word-fields button { padding: 0; width: 40px; }
+.word-fields input { font-size: .875rem; }
+.word-fields label { font-size: .75rem; }
+.editor-section-head { display: flex; justify-content: space-between; gap: 16px; align-items: center; margin: 24px 0 5px; }
+.editor-section-head h2 { font-size: 1.2rem; margin: 0; }
+@media (max-width: 780px) {
+.editor-layout { grid-template-columns: 1fr; }
+.editor-tree { max-height: 300px; }
+.editor-toolbar .toolbar-end { margin-left: 0; }
+.word-fields { grid-template-columns: 1fr 1fr 40px; }
+.word-fields label:nth-child(3) { grid-column: 1 / 3; grid-row: 2; }
+.word-fields button { grid-column: 3; grid-row: 2; }
+.field-row { grid-template-columns: 1fr; }
+}

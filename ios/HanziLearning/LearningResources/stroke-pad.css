@@ -1,0 +1,5 @@
+:root { color-scheme: light dark; --background: #f5f7f3; --stroke: #263b58; --radical: #c84900; --grid: #dce4dc; --outline: #dbe7d8; --drawing: #23734d; --hint: #a64f00; }
+@media (prefers-color-scheme: dark) { :root { --background: #101c17; --stroke: #cfddf6; --radical: #ff952f; --grid: #34483a; --outline: #304935; --drawing: #a7d88c; --hint: #ffb86b; } }
+* { box-sizing: border-box; }
+html,body { margin: 0; width: 100%; height: 100%; overflow: hidden; background: var(--background); }
+#pad { width: 100%; height: 100%; touch-action: none; user-select: none; -webkit-user-select: none; }

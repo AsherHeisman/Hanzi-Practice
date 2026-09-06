@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark"><title>My progress - Hanzi Learning</title>
+<link rel="icon" href="/assets/favicon.svg"><link rel="stylesheet" href="/progress/style.css">
+</head>
+<body data-page="progress">
+<header id="site-header"></header>
+<main class="page" id="main-content">
+  <div class="page-heading"><div><h1>My progress</h1><p class="muted">A record of the practice you put in.</p></div><a class="button" href="/quiz">Start a quiz</a></div>
+  <p class="notice" id="history-message" role="status"></p>
+  <section id="history-stats" class="stats-grid" aria-label="Practice totals"></section>
+  <p class="muted">100 points for a word written without mistakes, 50 with corrections, and 0 if skipped. Guided practice and recall quizzes are labeled in your history.</p>
+  <div class="progress-tools"><button class="secondary" id="export-json">Export JSON</button><button class="secondary" id="export-csv">Export CSV</button><button class="danger" id="clear-history">Clear history</button></div>
+  <p class="breadcrumb">Your latest 200 completed sessions stay in this browser. Export them to keep a copy. Clearing browser data also clears this history.</p>
+  <section id="history-list" class="history-list" aria-label="Completed sessions"></section>
+</main>
+<footer id="site-footer"></footer>
+<script src="/shared/common.js"></script><script src="/shared/scores.js"></script><script src="/progress/script.js"></script>
+</body>
+</html>

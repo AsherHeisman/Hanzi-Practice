@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Learn - Hanzi Learning</title>
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/learn/style.css">
+</head>
+<body class="practice-page" data-page="">
+  <header id="site-header"></header>
+
+  <main class="page" id="main-content">
+    <p class="breadcrumb"><a id="back-link" href="/" class="back-link"><span class="material-symbols-outlined icon" aria-hidden="true">arrow_back</span><span class="back-label">Back</span></a></p>
+    <div id="breadcrumb-info" class="breadcrumb"></div>
+
+    <div id="progress-bar-outer">
+      <div id="progress-bar-inner"></div>
+    </div>
+    <div id="progress-label"></div>
+
+    <div id="mode-select" class="mode-choice hidden">
+      <button id="mode-character">Learn the characters<small>Watch the strokes, then give it a try.</small></button>
+      <button id="mode-popquiz" class="secondary">Test your recall<small>Write from memory with a little help.</small></button>
+    </div>
+
+    <div id="app-root"></div>
+  </main>
+
+  <footer id="site-footer"></footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3/dist/hanzi-writer.min.js"></script>
+  <script src="/shared/common.js"></script>
+  <script src="/shared/scores.js"></script>
+  <script src="/shared/quiz-engine.js"></script>
+  <script src="/learn/script.js"></script>
+</body>
+</html>
+
+<!--YC-->

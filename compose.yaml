@@ -1,0 +1,21 @@
+services:
+  hanzi:
+    build: .
+    ports:
+      - "${PORT:-3000}:3000"
+    environment:
+      # Requested test PIN. Override ADMIN_PIN for a public deployment.
+      ADMIN_PIN: "${ADMIN_PIN:-1234}"
+      COOKIE_SECURE: "${COOKIE_SECURE:-false}"
+      PUBLIC_ORIGIN: "${PUBLIC_ORIGIN:-}"
+    volumes:
+      - hanzi-data:/app/data
+    restart: unless-stopped
+    init: true
+    read_only: true
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+volumes:
+  hanzi-data:

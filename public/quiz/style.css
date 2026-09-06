@@ -1,0 +1,10 @@
+@import url("/shared/style.css");
+.quiz-layout { display: grid; grid-template-columns: 1.5fr 1fr; gap: 26px; }
+.quiz-config { display: flex; flex-direction: column; gap: 22px; }
+.quiz-aside { background: var(--ink-wash); padding: 30px; border-radius: 16px; align-self: start; }
+.quiz-aside p { color: var(--ink-soft); }
+.quiz-aside ol { padding-left: 20px; }
+.quiz-aside li { margin-bottom: 15px; font-size: .94rem; }
+@media (max-width: 780px) {
+.quiz-layout { grid-template-columns: 1fr; }
+}

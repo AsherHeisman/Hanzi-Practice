@@ -1,0 +1,245 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		383B1B0E287C7AA9F8C6E6D9 /* LibraryViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = D954234141A6808E621A1D38 /* LibraryViews.swift */; };
+		5E9A058952E32204CF095D89 /* HanziLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4228FD073806C9DD1FB6164 /* HanziLearningApp.swift */; };
+		716E9590E60B3AFA6E62BF18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2B95FB705A4AD50535A3D26 /* Assets.xcassets */; };
+		A836B51D1AB05E8881F36F35 /* PracticeSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 586C778BD0A2EEBB0C7F3793 /* PracticeSessionView.swift */; };
+		B55161B62630624033EF0EF6 /* StrokePad.swift in Sources */ = {isa = PBXBuildFile; fileRef = C326D1F6853A5B7370B94BA9 /* StrokePad.swift */; };
+		C28E3B592A560C32484F497E /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0C8FAFE1B09544C5912233 /* Models.swift */; };
+		DC62F6EDFCF365902C12F3A7 /* LearningResources in Resources */ = {isa = PBXBuildFile; fileRef = 71EFA36BC9775FD72DE8EC53 /* LearningResources */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1B0C8FAFE1B09544C5912233 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		38A007151ABE87CC01A5B6E9 /* HanziLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HanziLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		586C778BD0A2EEBB0C7F3793 /* PracticeSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeSessionView.swift; sourceTree = "<group>"; };
+		71EFA36BC9775FD72DE8EC53 /* LearningResources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = LearningResources; sourceTree = "<group>"; };
+		A4228FD073806C9DD1FB6164 /* HanziLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HanziLearningApp.swift; sourceTree = "<group>"; };
+		C326D1F6853A5B7370B94BA9 /* StrokePad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrokePad.swift; sourceTree = "<group>"; };
+		D2B95FB705A4AD50535A3D26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D954234141A6808E621A1D38 /* LibraryViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryViews.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7561BFB015D8F536760CB671 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		870B3294C0CBD48AF6BBCC1B = {
+			isa = PBXGroup;
+			children = (
+				96DC7B6B5526E30EFB51C316 /* HanziLearning */,
+				FBDC4F23F93125BBEEAE800C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		96DC7B6B5526E30EFB51C316 /* HanziLearning */ = {
+			isa = PBXGroup;
+			children = (
+				A4228FD073806C9DD1FB6164 /* HanziLearningApp.swift */,
+				D954234141A6808E621A1D38 /* LibraryViews.swift */,
+				1B0C8FAFE1B09544C5912233 /* Models.swift */,
+				586C778BD0A2EEBB0C7F3793 /* PracticeSessionView.swift */,
+				C326D1F6853A5B7370B94BA9 /* StrokePad.swift */,
+				71EFA36BC9775FD72DE8EC53 /* LearningResources */,
+				D2B95FB705A4AD50535A3D26 /* Assets.xcassets */,
+			);
+			path = HanziLearning;
+			sourceTree = "<group>";
+		};
+		FBDC4F23F93125BBEEAE800C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				38A007151ABE87CC01A5B6E9 /* HanziLearning.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0E8A3AD980EC179856012B7E /* HanziLearning */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 976B52545947CA66FD9EF2A4 /* Build configuration list for PBXNativeTarget "HanziLearning" */;
+			buildPhases = (
+				BCE16DD0260827ECF338C787 /* Sources */,
+				7561BFB015D8F536760CB671 /* Frameworks */,
+				0189424A5A60FED329FA868E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HanziLearning;
+			productName = HanziLearning;
+			productReference = 38A007151ABE87CC01A5B6E9 /* HanziLearning.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		98F54143AB4E86B28C3AFEE0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 2700;
+				TargetAttributes = {
+					0E8A3AD980EC179856012B7E = {
+						CreatedOnToolsVersion = 27.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 640DC9EFD529235A8D9E2727 /* Build configuration list for PBXProject "HanziLearning" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 870B3294C0CBD48AF6BBCC1B;
+			productRefGroup = FBDC4F23F93125BBEEAE800C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0E8A3AD980EC179856012B7E /* HanziLearning */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0189424A5A60FED329FA868E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC62F6EDFCF365902C12F3A7 /* LearningResources in Resources */,
+				716E9590E60B3AFA6E62BF18 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BCE16DD0260827ECF338C787 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5E9A058952E32204CF095D89 /* HanziLearningApp.swift in Sources */,
+				383B1B0E287C7AA9F8C6E6D9 /* LibraryViews.swift in Sources */,
+				C28E3B592A560C32484F497E /* Models.swift in Sources */,
+				A836B51D1AB05E8881F36F35 /* PracticeSessionView.swift in Sources */,
+				B55161B62630624033EF0EF6 /* StrokePad.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		00F209874A1F7309F6DCEAA7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		1A6EFC2CD0AF63DD14BE0438 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XBS55SJHJ8;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.asherheisman.HanziLearning;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4D8F54E7CBAF670D9F6C230D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XBS55SJHJ8;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.asherheisman.HanziLearning;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		ED8772ADEC3A6C25161BC957 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		640DC9EFD529235A8D9E2727 /* Build configuration list for PBXProject "HanziLearning" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED8772ADEC3A6C25161BC957 /* Debug */,
+				00F209874A1F7309F6DCEAA7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		976B52545947CA66FD9EF2A4 /* Build configuration list for PBXNativeTarget "HanziLearning" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4D8F54E7CBAF670D9F6C230D /* Debug */,
+				1A6EFC2CD0AF63DD14BE0438 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 98F54143AB4E86B28C3AFEE0 /* Project object */;
+}
