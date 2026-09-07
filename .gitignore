@@ -6,3 +6,4 @@ coverage/
 DerivedData/
 *.xcuserstate
 xcuserdata/
+.codex

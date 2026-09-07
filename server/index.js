@@ -109,7 +109,11 @@ export function createApp(options = {}) {
       }
       if (asset && ['GET', 'HEAD'].includes(req.method)) {
         if (asset.redirect) { res.writeHead(308, { Location: asset.redirect + url.search }); return res.end(); }
-        res.setHeader('Content-Type', MIME[path.extname(asset.file)] || 'application/octet-stream');
+        const extension = path.extname(asset.file);
+        res.setHeader('Content-Type', MIME[extension] || 'application/octet-stream');
+        if (extension === '.css' || extension === '.js' || extension === '.ttf' || extension === '.svg') {
+          res.setHeader('Cache-Control', 'public, max-age=3600, must-revalidate');
+        }
         const content = readFileSync(path.join(PUBLIC_ROOT, asset.file));
         res.writeHead(200);
         return res.end(req.method === 'HEAD' ? undefined : content);
